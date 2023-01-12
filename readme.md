@@ -6,3 +6,5 @@ Ambos códigos utilizan modelos BERT (Beto)
 * bert-pt-sostenible es la aplicación utilizando pytorch.
 
 La idea es poner en práctica las distintas herramientas y luego poder comparar el desempeño de TF vs Pytorch en la misma tarea. 
+
+TODO: implementar versión en pytorch 
